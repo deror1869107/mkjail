@@ -41,6 +41,7 @@
 /usr/lib/system/libsystem_sandbox.dylib
 /usr/lib/system/libsystem_secinit.dylib
 /usr/lib/system/libsystem_stats.dylib
+/usr/lib/system/libsystem_symptoms.dylib
 /usr/lib/system/libsystem_trace.dylib
 /usr/lib/system/libunc.dylib
 /usr/lib/system/libunwind.dylib
